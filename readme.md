@@ -11,7 +11,7 @@
 - 机器学习：一种实现人工智能的方式；
 - 深度学习：一种实现机器学习的技术（神经网络）。
 
-![ai_ml_dl](C:\Users\yaohw\Desktop\ML-demo\ai_ml_dl.png)
+![ai_ml_dl](https://github.com/yaohwu/tensorflow-day1/blob/master/ai_ml_dl.png)
 
 ### 分类：
 
